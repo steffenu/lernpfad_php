@@ -219,6 +219,30 @@ jQuery
    <br/>
    <br/>
 
+GIT Version Control
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. tip::
+
+   1. GIT CORE CONCEPTS
+
+   https://youtu.be/uR6G2v_WsRA
+
+
+   2. GIT Introduction to Git - Branching and Merging
+   https://youtu.be/FyAAIHHClqI
+
+
+   3.GIT REMOTES
+   https://youtu.be/Gg4bLk8cGNo
+
+
+.. raw:: html
+
+   <br/>
+   <br/>
+   <br/>
+
 PHP
 ==========================================
 
